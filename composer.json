@@ -21,7 +21,7 @@
     "PEAR"
   ],
   "require": {
-    "ruler/ruler": "0.3.*",
+    "ruler/ruler": "0.4.*",
     "google/apiclient": "2.13.*",
     "google/apiclient-services": "0.285.*",
     "smarty/smarty": "4.3.*",
@@ -63,8 +63,9 @@
     "aws/aws-sdk-php": "3.257.*",
     "google/auth": "1.25.*",
     "smalot/cups-ipp": "0.4.*",
-    "phpseclib/phpseclib": "2.0.*",
+    "phpseclib/phpseclib": "3.0.*",
     "amzn/amazon-pay-sdk-php": "3.7.*",
+    "amzn/amazon-pay-api-sdk-php": "2.5.*",
     "php-ds/php-ds": "1.4.*",
     "klarna/kco_rest": "4.2.*",
     "paypal/rest-api-sdk-php": "1.14.*",
