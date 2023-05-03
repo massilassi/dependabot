@@ -62,10 +62,10 @@
     "ext-zlib": "*",
     "aws/aws-sdk-php": "3.261.*",
     "google/auth": "1.25.*",
-    "smalot/cups-ipp": "0.4.*",
+    "smalot/cups-ipp": "0.5.*",
     "phpseclib/phpseclib": "3.0.*",
     "amzn/amazon-pay-sdk-php": "3.7.*",
-    "amzn/amazon-pay-api-sdk-php": "2.5.*",
+    "amzn/amazon-pay-api-sdk-php": "2.6.*",
     "php-ds/php-ds": "1.4.*",
     "klarna/kco_rest": "4.2.*",
     "paypal/rest-api-sdk-php": "1.14.*",
@@ -145,7 +145,8 @@
       "php": "7.4"
     },
     "allow-plugins": {
-      "ocramius/package-versions": false
+      "ocramius/package-versions": false,
+      "php-http/discovery": true
     }
   }
 }
