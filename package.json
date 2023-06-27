@@ -70,8 +70,8 @@
     "cypress run": "./node_modules/.bin/cypress run --headless --https"
   },
   "resolutions": {
-    "@types/react": "18.0.25",
-    "@types/react-dom": "18.0.9"
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6"
   },
   "packageManager": "yarn@3.2.0",
   "dependencies": {
