@@ -1,31 +1,243 @@
 {
-  "extra": {
-    "laminas": {
-      "component-whitelist": [
-        "mezzio/mezzio",
-        "mezzio/mezzio-helpers",
-        "mezzio/mezzio-router",
-        "laminas/laminas-httphandlerrunner",
-        "mezzio/mezzio-fastroute"
-      ]
-    }
-  },
+  "name": "niceshops/disco",
+  "type": "project",
+  "description": "Niceshops Disco MonoRepository",
+  "license": "proprietary",
   "autoload": {
     "psr-0": {
-      "Zend_": "legacy/"
+      "Datenkraft_": "shared/legacy/",
+      "Disco_": "shared/legacy/",
+      "Shop_": "shared/legacy/Disco/Shop/Models/",
+      "Cms_": "shared/legacy/Disco/Shop/Models/",
+      "Wrapper_": "shared/legacy/Disco/Shop/Models/",
+      "Pools_": [
+        "shops/pools/legacy/Modules/",
+        "shops/pools/legacy/Models/"
+      ],
+      "Almdudler_": [
+        "shops/almdudler/legacy/Modules/"
+      ],
+      "Ayurveda101_": [
+        "shops/ayurveda101/legacy/Modules/"
+      ],
+      "BadgerBen_": [
+        "shops/badgerben/legacy/Modules/"
+      ],
+      "Bauerpumpen_": [
+        "shops/bauerpumpen/legacy/Modules/"
+      ],
+      "RadCranks_": [
+        "shops/radcranks/legacy/Modules/",
+        "shops/radcranks/legacy/Models/"
+      ],
+      "Biolindo_": [
+        "shops/biolindo/legacy/Modules/"
+      ],
+      "Biosnatur_": [
+        "shops/biosnatur/legacy/Modules/"
+      ],
+      "Biovera_": [
+        "shops/biovera/legacy/Modules/",
+        "shops/biovera/legacy/Models/"
+      ],
+      "Brillanga_": [
+        "shops/brillanga/legacy/Modules/"
+      ],
+      "Cosmeterie_": [
+        "shops/cosmeterie/legacy/Modules/"
+      ],
+      "Steve_": [
+        "shops/steve/legacy/Modules/",
+        "shops/steve/legacy/Models/"
+      ],
+      "DefaultShop_": [
+        "shops/defaultshop/legacy/Modules/"
+      ],
+      "EccoVerde_": [
+        "shops/eccoverde/legacy/Modules/"
+      ],
+      "EquusVitalis_": [
+        "shops/equusvitalis/legacy/Modules/",
+        "shops/equusvitalis/legacy/Models/"
+      ],
+      "FortyTwoThings_": [
+        "shops/fortytwothings/legacy/Modules/"
+      ],
+      "FromAustria_": [
+        "shops/fromaustria/legacy/Modules/"
+      ],
+      "Geero_": [
+        "shops/geero/legacy/Modules/",
+        "shops/geero/legacy/Models/"
+      ],
+      "HandsOnVeggies_": [
+        "shops/handsonveggies/legacy/Modules/"
+      ],
+      "Holzbrennerei_": [
+        "shops/holzbrennerei/legacy/Modules/"
+      ],
+      "Innopha_": [
+        "shops/innopha/legacy/Modules/",
+        "shops/innopha/legacy/Models/"
+      ],
+      "KleineZeitung_": [
+        "shops/kleinezeitung/legacy/Modules/",
+        "shops/kleinezeitung/legacy/Models/"
+      ],
+      "Kotanyi_": [
+        "shops/kotanyi/legacy/Modules/"
+      ],
+      "Labelhair_": [
+        "shops/labelhair/legacy/Modules/"
+      ],
+      "Lederhose_": [
+        "shops/lederhose/legacy/Modules/"
+      ],
+      "LongevityLabs_": [
+        "shops/longevitylabs/legacy/Modules/",
+        "shops/longevitylabs/legacy/Models/"
+      ],
+      "Interismo_": [
+        "shops/interismo/legacy/Modules/"
+      ],
+      "Meta_": [
+        "shops/meta/legacy/Modules/",
+        "shops/meta/legacy/Models/"
+      ],
+      "NeunWeine_": [
+        "shops/neunweine/legacy/Modules/",
+        "shops/neunweine/legacy/Models/"
+      ],
+      "Niceshops_": [
+        "shops/niceshops/legacy/Modules/",
+        "shops/niceshops/legacy/Models/"
+      ],
+      "NoPlanetB_": [
+        "shops/noplanetb/legacy/Modules/"
+      ],
+      "OhFeliz_": [
+        "shops/ohfeliz/legacy/Modules/"
+      ],
+      "Olibetta_": [
+        "shops/olibetta/legacy/Modules/"
+      ],
+      "Peganto_": [
+        "shops/peganto/legacy/Modules/"
+      ],
+      "Bloomling_": [
+        "shops/bloomling/legacy/Modules/",
+        "shops/bloomling/legacy/Models/"
+      ],
+      "Piccantino_": [
+        "shops/piccantino/legacy/Modules/"
+      ],
+      "PlayPolis_": [
+        "shops/playpolis/legacy/Modules/"
+      ],
+      "ThreeDJake_": [
+        "shops/threedjake/legacy/Modules/"
+      ],
+      "Pureskinfood_": [
+        "shops/pureskinfood/legacy/Modules/"
+      ],
+      "Saaza_": [
+        "shops/saaza/legacy/Modules/"
+      ],
+      "Spiritales_": [
+        "shops/spiritales/legacy/Modules/",
+        "shops/spiritales/legacy/Models/"
+      ],
+      "VitalAbo_": [
+        "shops/vitalabo/legacy/Modules/",
+        "shops/vitalabo/legacy/Models/"
+      ],
+      "Vulkanland_": [
+        "shops/vulkanland/legacy/Modules/"
+      ],
+      "Yaasa_": [
+        "shops/yaasa/legacy/Modules/",
+        "shops/yaasa/legacy/Models/"
+      ],
+      "Wiberg_": [
+        "shops/wiberg/legacy/Modules/",
+        "shops/wiberg/legacy/Models/"
+      ],
+      "Zoolini_": [
+        "shops/zoolini/legacy/Modules/",
+        "shops/zoolini/legacy/Models/"
+      ]
     },
-    "classmap": ["PEAR/"]
+    "psr-4": {
+      "Niceshops\\Library\\": "shared/src/",
+      "Niceshops\\Build\\": "build/src/",
+      "Niceshops\\Shared\\Service\\Api\\": "shared/services/Api/src/",
+      "Niceshops\\Shared\\Service\\Backend\\": "shared/services/Backend/src/",
+      "Niceshops\\Shared\\Service\\Catalogue\\ManagementApi\\": "shared/services/Catalogue/ManagementApi/src/",
+      "Niceshops\\Shared\\Service\\Catalogue\\Api\\": "shared/services/Catalogue/Api/src/",
+      "Niceshops\\Shared\\Service\\Cli\\": "shared/services/Cli/src/",
+      "Niceshops\\Shared\\Service\\Cms\\": "shared/services/Cms/src/",
+      "Niceshops\\Shared\\Service\\Customer\\Api\\": "shared/services/Customer/Api/src/",
+      "Niceshops\\Shared\\Service\\Internal\\": "shared/services/Internal/src/",
+      "Niceshops\\Shared\\Service\\Media\\ManagementApi\\": "shared/services/Media/ManagementApi/src/",
+      "Niceshops\\Shared\\Service\\Storescreen\\": "shared/services/Storescreen/src/",
+      "Niceshops\\Shared\\Service\\Shop\\": "shared/services/Shop/src/",
+      "Niceshops\\Shared\\Service\\SupplierCenter\\": "shared/services/SupplierCenter/src/",
+      "Niceshops\\Shared\\Service\\Legacy\\": "shared/services/Legacy/src/",
+      "Niceshops\\Shared\\Service\\DiscoHome\\": "shared/services/DiscoHome/src/",
+      "Niceshops\\Shared\\Service\\I18n\\": "shared/services/I18n/src/",
+      "Niceshops\\Shop\\Cosmeterie\\Service\\Storescreen\\": "shops/cosmeterie/services/Storescreen/src/",
+      "Niceshops\\Shop\\Piccantino\\Service\\DonPiccantoni\\": "shops/piccantino/services/DonPiccantoni/src/",
+      "Niceshops\\Shop\\Meta\\Service\\Metascreen\\": "shops/meta/services/Metascreen/src/",
+      "Niceshops\\Shop\\Meta\\Service\\TrackingHubApi\\": "shops/meta/services/TrackingHubApi/src/",
+      "Niceshops\\Shop\\Piccantino\\": "shops/piccantino/src/",
+      "Niceshops\\Shop\\Meta\\": "shops/meta/src/",
+      "Niceshops\\Shop\\Wiberg\\": "shops/wiberg/src",
+      "Niceshops\\Shop\\HandsOnVeggies\\": "shops/handsonveggies/src",
+      "Niceshops\\Shop\\Steve\\": "shops/steve/src",
+      "Niceshops\\Modules\\Easylager\\Mvc\\": "shared/legacy/Disco/Shop/Modules/Easylager/Mvc"
+    },
+    "classmap": [
+      "shared/gen",
+      "shops/meta/gen",
+      "shops/kleinezeitung/legacy/Models/",
+      "shops/meta/legacy/Models/",
+      "shops/vitalabo/legacy/Models/"
+    ]
   },
-  "include-path": [
-    "legacy/",
-    "PEAR"
-  ],
+  "autoload-dev": {
+    "psr-0": {
+      "Datenkraft_": "shared/legacy/Disco/tests/Datenkraft",
+      "Disco_": "shared/legacy/Disco/tests/Disco"
+    },
+    "psr-4": {
+      "NiceshopsTest\\Library\\": "shared/tests/",
+      "NiceshopsTest\\Shared\\Service\\Api\\": "shared/services/Api/tests/",
+      "NiceshopsTest\\Shared\\Service\\Backend\\": "shared/services/Backend/tests/",
+      "NiceshopsTest\\Shared\\Service\\Catalogue\\ManagementApi\\": "shared/services/Catalogue/ManagementApi/tests/",
+      "NiceshopsTest\\Shared\\Service\\Catalogue\\Api\\": "shared/services/Catalogue/Api/tests/",
+      "NiceshopsTest\\Shared\\Service\\Cli\\": "shared/services/Cli/tests/",
+      "NiceshopsTest\\Shared\\Service\\Cms\\": "shared/services/Cms/tests/",
+      "NiceshopsTest\\Shared\\Service\\Internal\\": "shared/services/Internal/tests/",
+      "NiceshopsTest\\Shared\\Service\\Media\\ManagementApi\\": "shared/services/Media/ManagementApi/tests/",
+      "NiceshopsTest\\Shared\\Service\\Storescreen\\": "shared/services/Storescreen/tests/",
+      "NiceshopsTest\\Shared\\Service\\Shop\\": "shared/services/Shop/tests/",
+      "NiceshopsTest\\Shared\\Service\\SupplierCenter\\": "shared/services/SupplierCenter/tests/",
+      "NiceshopsTest\\Shared\\Service\\Legacy\\": "shared/services/Legacy/tests/",
+      "NiceshopsTest\\Shared\\Service\\DiscoHome\\": "shared/services/DiscoHome/tests/",
+      "NiceshopsTest\\Shared\\Service\\I18n\\": "shared/services/I18n/tests/",
+      "NiceshopsTest\\Shop\\Piccantino\\": "shops/piccantino/tests/",
+      "NiceshopsTest\\Shop\\Meta\\": "shops/meta/tests/",
+      "NiceshopsTest\\Shop\\Meta\\Service\\TrackingHubApi\\": "shops/meta/services/TrackingHubApi/tests/"
+    }
+  },
   "require": {
-    "ruler/ruler": "0.4.*",
-    "google/apiclient": "2.14.*",
-    "google/apiclient-services": "0.306.*",
-    "smarty/smarty": "4.3.*",
+    "ext-PDO": "*",
+    "ext-Phar": "*",
+    "ext-Reflection": "*",
+    "ext-SPL": "*",
+    "ext-SimpleXML": "*",
     "ext-bcmath": "*",
+    "ext-calendar": "*",
     "ext-ctype": "*",
     "ext-curl": "*",
     "ext-date": "*",
@@ -37,6 +249,7 @@
     "ext-gettext": "*",
     "ext-hash": "*",
     "ext-iconv": "*",
+    "ext-intl": "*",
     "ext-json": "*",
     "ext-libxml": "*",
     "ext-mbstring": "*",
@@ -44,111 +257,20 @@
     "ext-mysqlnd": "*",
     "ext-openssl": "*",
     "ext-pcre": "*",
-    "ext-PDO": "*",
-    "ext-Phar": "*",
     "ext-posix": "*",
-    "ext-Reflection": "*",
+    "ext-rdkafka": "*",
     "ext-session": "*",
-    "ext-SimpleXML": "*",
     "ext-soap": "*",
     "ext-sockets": "*",
-    "ext-SPL": "*",
+    "ext-ssh2": "*",
+    "ext-sysvsem": "*",
     "ext-tidy": "*",
     "ext-tokenizer": "*",
     "ext-xml": "*",
     "ext-xmlreader": "*",
     "ext-xmlwriter": "*",
+    "ext-zend-opcache": "*",
     "ext-zip": "*",
-    "ext-zlib": "*",
-    "aws/aws-sdk-php": "3.273.*",
-    "google/auth": "1.26.*",
-    "smalot/cups-ipp": "0.5.*",
-    "phpseclib/phpseclib": "3.0.*",
-    "amzn/amazon-pay-sdk-php": "3.7.*",
-    "amzn/amazon-pay-api-sdk-php": "2.6.*",
-    "php-ds/php-ds": "1.4.*",
-    "klarna/kco_rest": "4.2.*",
-    "paypal/rest-api-sdk-php": "1.14.*",
-    "adyen/php-api-library": "^13.0",
-    "cybercog/youtrack-rest-php": "7.0.*",
-    "lcobucci/jwt": "4.3.0",
-    "graylog2/gelf-php": "1.7.*",
-    "laminas/laminas-code": "4.7.*",
-    "laminas/laminas-config-aggregator": "1.9.*",
-    "laminas/laminas-di": "3.9.*",
-    "laminas/laminas-diactoros": "2.17.*",
-    "laminas/laminas-eventmanager": "3.5.*",
-    "laminas/laminas-feed": "2.18.*",
-    "laminas/laminas-filter": "2.22.*",
-    "laminas/laminas-http": "2.16.1",
-    "laminas/laminas-i18n": "2.17.*",
-    "laminas/laminas-inputfilter": "2.21.*",
-    "laminas/laminas-loader": "2.8.*",
-    "laminas/laminas-log": "2.15.*",
-    "laminas/laminas-mail": "2.16.*",
-    "laminas/laminas-mime": "2.10.*",
-    "laminas/laminas-serializer": "2.13.*",
-    "laminas/laminas-servicemanager": "3.17.*",
-    "laminas/laminas-session": "2.13.*",
-    "laminas/laminas-stdlib": "3.13.*",
-    "laminas/laminas-uri": "2.9.*",
-    "laminas/laminas-validator": "2.25.*",
-    "laminas/laminas-zendframework-bridge": "1.6.*",
-    "mezzio/mezzio": "3.11.*",
-    "mezzio/mezzio-fastroute": "3.6.*",
-    "mezzio/mezzio-helpers": "5.9.*",
-    "mezzio/mezzio-csrf": "1.6.*",
-    "mezzio/mezzio-flash": "1.5.*",
-    "mezzio/mezzio-session": "1.11.*",
-    "mezzio/mezzio-session-ext": "1.15.*",
-    "mezzio/mezzio-authentication": "1.6.*",
-    "mezzio/mezzio-authentication-basic": "1.5.*",
-    "mezzio/mezzio-authentication-session": "1.5.*",
-    "mezzio/mezzio-authentication-oauth2": "2.5.*",
-    "google/cloud-bigquery": "1.25.*",
-    "league/oauth2-client": "2.7.*",
-    "league/oauth2-facebook": "2.2.*",
-    "league/oauth2-google": "4.0.*",
-    "google/cloud-core": "1.52.*",
-    "google/cloud-translate": "1.14.*",
-    "paypal/paypal-checkout-sdk": "1.0.2",
-    "symfony/console": "5.4.*",
-    "symfony/cache": "5.4.*",
-    "symfony/messenger": "5.4.*",
-    "symfony/event-dispatcher": "5.4.*",
-    "symfony/finder": "5.4.*",
-    "zircote/swagger-php": "4.7.*",
-    "guzzlehttp/guzzle": "6.5.*",
-    "googleads/google-ads-php": "^19.0",
-    "jordanbrauer/unit-converter": "0.8.8",
-    "markbaker/complex": "3.0.*",
-    "phpoffice/phpspreadsheet": "1.29.*",
-    "php-http/socket-client": "1.4.*",
-    "soundasleep/html2text": "^2.1",
-    "webmozart/assert": "^1.11"
-  },
-  "require-dev": {
-    "laminas/laminas-development-mode": "3.8.*",
-    "filp/whoops": "2.15.*",
-    "nikic/php-parser": "*",
-    "php-webdriver/webdriver": "*",
-    "friendsofphp/php-cs-fixer": "3.4.*",
-    "phpstan/phpstan": "1.10.*",
-    "squizlabs/php_codesniffer": "3.7.*",
-    "micheh/phpcs-gitlab": "1.1.*",
-    "phpunit/phpunit": "9.6.*",
-    "phpspec/prophecy": "~1.17",
-    "fakerphp/faker": "^1.23"
-  },
-  "config": {
-    "classmap-authoritative": true,
-    "optimize-autoloader": true,
-    "platform": {
-      "php": "7.4"
-    },
-    "allow-plugins": {
-      "ocramius/package-versions": false,
-      "php-http/discovery": true
-    }
+    "ext-zlib": "*"
   }
 }
