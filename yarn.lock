@@ -18722,7 +18722,7 @@ __metadata:
     webpack: 5.88.0
     webpack-cli: 5.1.4
     webpack-notifier: 1.15.0
-    winbox: 0.2.6
+    winbox: 0.2.82
     yarn-audit-fix: 9.3.12
   languageName: unknown
   linkType: soft
@@ -21226,10 +21226,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"winbox@npm:0.2.6":
-  version: 0.2.6
-  resolution: "winbox@npm:0.2.6"
-  checksum: 7216b0b7f40ef20058f43c3d7ef327cfaf1af26ac37ad6d27307cf7b2065aee1310684ae32aba28882a7cbbecc31e4d195c5b530111263464b3aee00f210b926
+"winbox@npm:0.2.82":
+  version: 0.2.82
+  resolution: "winbox@npm:0.2.82"
+  checksum: b5f2ba4b46bd6ad5c4a6f74779eb86f495eefc51c0e16727ddafe2999364f70dd8d19d4c25cec8cefdd7dc7d9856678f2bdb0b54d94373153f350e875d481b3b
   languageName: node
   linkType: hard
 
