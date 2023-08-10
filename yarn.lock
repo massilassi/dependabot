@@ -8139,6 +8139,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@ui5/webcomponents-base@npm:1.16.0":
+  version: 1.16.0
+  resolution: "@ui5/webcomponents-base@npm:1.16.0"
+  dependencies:
+    lit-html: ^2.0.1
+  checksum: 269dc4ad4fc3c6dfd228be29b7744b045c7516cbcff1348482c2853f9d8476d493cb6c97b21a0fde19a00f7ece54ef1e0884e9b3bbb76d8133efadd55e2110f5
+  languageName: node
+  linkType: hard
+
 "@ui5/webcomponents-fiori@npm:^1.14.5":
   version: 1.14.5
   resolution: "@ui5/webcomponents-fiori@npm:1.14.5"
@@ -8152,12 +8161,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ui5/webcomponents-icons@npm:1.14.5, @ui5/webcomponents-icons@npm:^1.14.5":
+"@ui5/webcomponents-icons@npm:1.14.5":
   version: 1.14.5
   resolution: "@ui5/webcomponents-icons@npm:1.14.5"
   dependencies:
     "@ui5/webcomponents-base": 1.14.5
   checksum: 27c8518928f8850b107124347670ec52aaf6fe2ac8d9deb86850be303d6429399244cc3143101463f5eb897d2ee0e8d80eb5d39e3a7566f9617923819f0443e8
+  languageName: node
+  linkType: hard
+
+"@ui5/webcomponents-icons@npm:^1.16.0":
+  version: 1.16.0
+  resolution: "@ui5/webcomponents-icons@npm:1.16.0"
+  dependencies:
+    "@ui5/webcomponents-base": 1.16.0
+  checksum: de6362fac6e126f4ddbe23a95093a6b1e23e289a738b4816f04304859f4788e7bad425ba76d8d77032fc81b9d8db4c29ea8cf623762c343082fd9dbfcc869762
   languageName: node
   linkType: hard
 
@@ -18671,7 +18689,7 @@ __metadata:
     "@typescript-eslint/parser": 5.60.1
     "@ui5/webcomponents": ^1.14.5
     "@ui5/webcomponents-fiori": ^1.14.5
-    "@ui5/webcomponents-icons": ^1.14.5
+    "@ui5/webcomponents-icons": ^1.16.0
     "@ungap/custom-elements": 1.3.0
     "@vue/compiler-sfc": 3.3.4
     bootstrap: 5.3.0
