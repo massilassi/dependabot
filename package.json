@@ -78,7 +78,7 @@
     "@adobe/react-spectrum": "3.27.0",
     "@googlemaps/extended-component-library": "^0.1.4",
     "@googlemaps/js-api-loader": "^1.16.2",
-    "@googlemaps/markerclusterer": "^2.3.1",
+    "@googlemaps/markerclusterer": "^2.4.0",
     "@lit-labs/context": "0.3.3",
     "@popperjs/core": "2.11.8",
     "@spectrum-icons/color": "3.5.2",
