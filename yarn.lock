@@ -10724,9 +10724,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cypress-image-diff-js@npm:1.25.0":
-  version: 1.25.0
-  resolution: "cypress-image-diff-js@npm:1.25.0"
+"cypress-image-diff-js@npm:1.27.0":
+  version: 1.27.0
+  resolution: "cypress-image-diff-js@npm:1.27.0"
   dependencies:
     "@babel/runtime": ^7.12.5
     "@colors/colors": ^1.5.0
@@ -10740,7 +10740,7 @@ __metadata:
     cypress: ^9.6.1 || ^10 || ^11 || ^12
   bin:
     cypress-image-diff: bin/cypress-image-diff.js
-  checksum: 4ddd874e190369e3ff7bcc875dd142b965fc20c1de8692ab7a74dfdd1f093abb5848917f23e5b97752d49412bbabeab0e883753a6605e032b183f7b05c2b843b
+  checksum: e1e3efea8eeb41c5753c555821f385f97358154aa109cf42494535584ccb2b07b42d23a1291864dd24d291c89d542e02d2dc71d880a58581235a94d9d00d28d8
   languageName: node
   linkType: hard
 
@@ -18683,7 +18683,7 @@ __metadata:
     core-js: 3.31.0
     cross-env: 7.0.3
     cypress: 12.16.0
-    cypress-image-diff-js: 1.25.0
+    cypress-image-diff-js: 1.27.0
     eslint: 8.43.0
     eslint-webpack-plugin: 4.0.1
     file-loader: 6.2.0
