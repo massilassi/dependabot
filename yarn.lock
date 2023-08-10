@@ -7477,10 +7477,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/google.maps@npm:^3.53.4":
-  version: 3.53.4
-  resolution: "@types/google.maps@npm:3.53.4"
-  checksum: 389b782b548b9330038bd59d3a33ccc38d776410fd1d97894fb7b595714681310eb987c7e75eb5fbf47c221dffd65c6df004e672f5ad2bc41b030b6eca86ecc4
+"@types/google.maps@npm:^3.53.6":
+  version: 3.53.6
+  resolution: "@types/google.maps@npm:3.53.6"
+  checksum: 2deb3f9019e29c56fd4d0613385427280aa58176e57eeef3a2dbad92bcf5aaa5d78f70ba16d1d8611c959e2b89ad813e166636552f9432dacb8e16b55bd4d836
   languageName: node
   linkType: hard
 
@@ -18662,7 +18662,7 @@ __metadata:
     "@spectrum-icons/ui": 3.5.2
     "@spectrum-icons/workflow": 4.2.1
     "@symfony/webpack-encore": 4.3.0
-    "@types/google.maps": ^3.53.4
+    "@types/google.maps": ^3.53.6
     "@types/jquery": 3.5.16
     "@types/react": 18.2.14
     "@types/react-dom": 18.2.6
