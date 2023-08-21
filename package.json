@@ -41,7 +41,7 @@
     "postcss-sort-media-queries": "5.2.0",
     "sass": "1.63.6",
     "sass-loader": "13.3.2",
-    "stylelint": "15.9.0",
+    "stylelint": "15.10.3",
     "stylelint-config-standard-scss": "9.0.0",
     "ts-loader": "9.4.3",
     "typescript": "5.1.3",
