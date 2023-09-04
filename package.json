@@ -91,7 +91,7 @@
     "bowser": "2.11.0",
     "browser-image-compression": "^2.0.2",
     "core-js": "3.31.0",
-    "hls.js": "^1.4.6",
+    "hls.js": "^1.4.12",
     "jquery": "3.7.0",
     "lottie-web": "5.12.2",
     "pinia": "2.1.4",
