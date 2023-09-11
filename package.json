@@ -4,7 +4,7 @@
     "@adyen/adyen-web": "^5.46.0",
     "@babel/core": "7.22.5",
     "@babel/plugin-syntax-flow": "7.22.5",
-    "@babel/plugin-transform-react-jsx": "7.22.5",
+    "@babel/plugin-transform-react-jsx": "7.22.15",
     "@babel/preset-env": "7.22.5",
     "@babel/preset-react": "7.22.5",
     "@cypress/skip-test": "2.6.1",
