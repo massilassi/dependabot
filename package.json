@@ -32,7 +32,7 @@
     "lit": "^2.7.5",
     "mini-css-extract-plugin": "2.7.6",
     "n": "9.1.0",
-    "postcss": "8.4.24",
+    "postcss": "8.4.31",
     "postcss-combine-duplicated-selectors": "10.0.3",
     "postcss-discard": "2.0.0",
     "postcss-loader": "7.3.3",
