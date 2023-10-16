@@ -36,7 +36,7 @@
     "postcss-combine-duplicated-selectors": "10.0.3",
     "postcss-discard": "2.0.0",
     "postcss-loader": "7.3.3",
-    "postcss-preset-env": "8.5.1",
+    "postcss-preset-env": "9.2.0",
     "postcss-pxtorem": "6.0.0",
     "postcss-sort-media-queries": "5.2.0",
     "sass": "1.63.6",
