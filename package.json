@@ -81,7 +81,7 @@
     "@googlemaps/markerclusterer": "^2.3.1",
     "@lit-labs/context": "0.3.3",
     "@popperjs/core": "2.11.8",
-    "@spectrum-icons/color": "3.5.2",
+    "@spectrum-icons/color": "3.5.7",
     "@spectrum-icons/illustrations": "3.6.2",
     "@spectrum-icons/ui": "3.5.2",
     "@spectrum-icons/workflow": "4.2.1",
