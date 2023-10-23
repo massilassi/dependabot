@@ -19,7 +19,7 @@
     "@ui5/webcomponents": "^1.14.5",
     "@ui5/webcomponents-fiori": "^1.14.5",
     "@ui5/webcomponents-icons": "^1.14.5",
-    "@vue/compiler-sfc": "3.3.4",
+    "@vue/compiler-sfc": "3.3.6",
     "breakpoint-sass": "3.0.0",
     "coa": "2.0.2",
     "cross-env": "7.0.3",
