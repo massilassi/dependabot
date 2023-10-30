@@ -1,7 +1,7 @@
 {
   "license": "BSD-3-Clause",
   "devDependencies": {
-    "@adyen/adyen-web": "^5.46.0",
+    "@adyen/adyen-web": "^5.53.2",
     "@babel/core": "7.22.5",
     "@babel/plugin-syntax-flow": "7.22.5",
     "@babel/plugin-transform-react-jsx": "7.22.5",
