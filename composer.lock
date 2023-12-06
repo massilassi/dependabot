@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4dd8b713252606c147d736c35631ee33",
+    "content-hash": "b983a5806e414959a24c76c0b1068f8c",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1339,16 +1339,16 @@
         },
         {
             "name": "google/cloud-translate",
-            "version": "v1.15.4",
+            "version": "v1.16.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-translate.git",
-                "reference": "ef478504e821b5fec8b34a5104bf64cbdd07fda0"
+                "reference": "91e0b1f36107d9693613967a44c9de71fe7a6598"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-translate/zipball/ef478504e821b5fec8b34a5104bf64cbdd07fda0",
-                "reference": "ef478504e821b5fec8b34a5104bf64cbdd07fda0",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-translate/zipball/91e0b1f36107d9693613967a44c9de71fe7a6598",
+                "reference": "91e0b1f36107d9693613967a44c9de71fe7a6598",
                 "shasum": ""
             },
             "require": {
@@ -1388,9 +1388,9 @@
             ],
             "description": "Cloud Translation Client for PHP",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-translate/tree/v1.15.4"
+                "source": "https://github.com/googleapis/google-cloud-php-translate/tree/v1.16.0"
             },
-            "time": "2023-11-02T19:15:44+00:00"
+            "time": "2023-12-01T17:35:56+00:00"
         },
         {
             "name": "google/common-protos",
@@ -13299,5 +13299,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
