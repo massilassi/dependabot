@@ -24,7 +24,7 @@
     "@typescript-eslint/parser": "6.13.1",
     "@ui5/webcomponents": "1.19.1",
     "@ui5/webcomponents-fiori": "1.19.1",
-    "@ui5/webcomponents-icons": "1.19.1",
+    "@ui5/webcomponents-icons": "1.20.1",
     "@web-types/lit": "2.0.0-3",
     "breakpoint-sass": "3.0.0",
     "clean-webpack-plugin": "4.0.0",
