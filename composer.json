@@ -128,7 +128,7 @@
     "symfony/messenger": "5.4.*",
     "symfony/event-dispatcher": "5.4.*",
     "symfony/finder": "5.4.*",
-    "zircote/swagger-php": "4.7.*",
+    "zircote/swagger-php": "4.8.*",
     "guzzlehttp/guzzle": "7.8.*",
     "googleads/google-ads-php": "^19.2",
     "jordanbrauer/unit-converter": "0.9.*",
