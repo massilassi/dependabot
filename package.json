@@ -38,7 +38,7 @@
     "events": "3.3.0",
     "file-loader": "6.2.0",
     "glob": "10.3.10",
-    "gsap": "3.12.2",
+    "gsap": "3.12.4",
     "html-webpack-plugin": "5.5.3",
     "jest": "29.7.0",
     "jest-environment-jsdom": "29.7.0",
