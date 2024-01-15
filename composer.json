@@ -147,7 +147,7 @@
     "php-webdriver/webdriver": "*",
     "friendsofphp/php-cs-fixer": "^3.35",
     "phpstan/phpstan": "1.10.*",
-    "squizlabs/php_codesniffer": "3.7.*",
+    "squizlabs/php_codesniffer": "3.8.*",
     "micheh/phpcs-gitlab": "1.1.*",
     "phpunit/phpunit": "9.6.*",
     "phpspec/prophecy": "~1.17",
