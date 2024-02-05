@@ -114,7 +114,7 @@
     "core-js": "3.33.3",
     "hls.js": "1.4.12",
     "i18next": "23.7.7",
-    "i18next-http-backend": "2.4.2",
+    "i18next-http-backend": "2.4.3",
     "ibantools": "4.3.6",
     "jquery": "3.7.1",
     "lit": "^3.1.0",
