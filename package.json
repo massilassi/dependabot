@@ -43,7 +43,7 @@
     "jest": "29.7.0",
     "jest-environment-jsdom": "29.7.0",
     "jest-junit": "16.0.0",
-    "mini-css-extract-plugin": "2.7.6",
+    "mini-css-extract-plugin": "2.8.0",
     "n": "9.2.0",
     "parallel-webpack": "2.6.0",
     "postcss": "8.4.31",
