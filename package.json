@@ -97,7 +97,7 @@
   "dependencies": {
     "@adobe/react-spectrum": "3.32.2",
     "@googlemaps/js-api-loader": "1.16.2",
-    "@googlemaps/markerclusterer": "2.5.1",
+    "@googlemaps/markerclusterer": "2.5.3",
     "@lit-labs/context": "0.5.1",
     "@popperjs/core": "2.11.8",
     "@shoelace-style/shoelace": "2.12.0",
