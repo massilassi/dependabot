@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "77e7f512c3572982ddbdbd38d4fcf8ef",
+    "content-hash": "980add228df316ad75b1759f274b6bb8",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1858,24 +1858,24 @@
         },
         {
             "name": "googleads/google-ads-php",
-            "version": "v19.2.0",
+            "version": "v22.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleads/google-ads-php.git",
-                "reference": "2ae4c1b81bb4792e4711dcf150faddba80e9bdf0"
+                "reference": "9ef2ae5a1a6fcf3daeb2309611d64ac5411f5383"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleads/google-ads-php/zipball/2ae4c1b81bb4792e4711dcf150faddba80e9bdf0",
-                "reference": "2ae4c1b81bb4792e4711dcf150faddba80e9bdf0",
+                "url": "https://api.github.com/repos/googleads/google-ads-php/zipball/9ef2ae5a1a6fcf3daeb2309611d64ac5411f5383",
+                "reference": "9ef2ae5a1a6fcf3daeb2309611d64ac5411f5383",
                 "shasum": ""
             },
             "require": {
-                "google/gax": "^1.13.0",
+                "google/gax": "^1.19.1",
                 "google/protobuf": "^3.21.5",
                 "grpc/grpc": "^1.36.0",
                 "monolog/monolog": "^1.26 || ^2.0 || ^3.0",
-                "php": ">=7.4"
+                "php": ">=8.0"
             },
             "require-dev": {
                 "composer/composer": "^2.0",
@@ -1915,9 +1915,9 @@
             "homepage": "https://github.com/googleads/google-ads-php",
             "support": {
                 "issues": "https://github.com/googleads/google-ads-php/issues",
-                "source": "https://github.com/googleads/google-ads-php/tree/v19.2.0"
+                "source": "https://github.com/googleads/google-ads-php/tree/v22.0.0"
             },
-            "time": "2023-06-08T14:17:45+00:00"
+            "time": "2024-01-24T06:00:26+00:00"
         },
         {
             "name": "graylog2/gelf-php",
@@ -13470,5 +13470,5 @@
     "platform-overrides": {
         "php": "8.2"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
