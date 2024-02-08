@@ -81,7 +81,7 @@
     "amzn/amazon-pay-api-sdk-php": "2.6.*",
     "php-ds/php-ds": "1.5.*",
     "adyen/php-api-library": "^16.0",
-    "lcobucci/jwt": "4.3.0",
+    "lcobucci/jwt": "5.2.0",
     "graylog2/gelf-php": "1.7.*",
     "laminas/laminas-code": "4.13.*",
     "laminas/laminas-config-aggregator": "1.14.*",
