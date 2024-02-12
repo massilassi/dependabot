@@ -120,7 +120,7 @@
     "league/oauth2-facebook": "2.2.*",
     "league/oauth2-google": "4.0.*",
     "league/pipeline": "^1.0",
-    "google/cloud-core": "1.52.*",
+    "google/cloud-core": "1.55.*",
     "google/cloud-translate": "1.17.*",
     "paypal/paypal-checkout-sdk": "1.0.2",
     "symfony/console": "5.4.*",
