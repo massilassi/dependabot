@@ -97,7 +97,7 @@
   },
   "packageManager": "yarn@4.0.2",
   "dependencies": {
-    "@adobe/react-spectrum": "3.33.1",
+    "@adobe/react-spectrum": "3.34.1",
     "@googlemaps/js-api-loader": "1.16.2",
     "@googlemaps/markerclusterer": "2.5.3",
     "@lit-labs/context": "0.5.1",
