@@ -104,7 +104,7 @@
     "laminas/laminas-uri": "2.11.*",
     "laminas/laminas-validator": "2.47.*",
     "laminas/laminas-zendframework-bridge": "1.8.*",
-    "mezzio/mezzio": "3.18.*",
+    "mezzio/mezzio": "3.19.*",
     "mezzio/mezzio-fastroute": "3.11.*",
     "mezzio/mezzio-helpers": "5.16.*",
     "mezzio/mezzio-csrf": "1.9.*",
