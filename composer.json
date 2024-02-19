@@ -71,7 +71,7 @@
     "ext-zlib": "*",
     "ruler/ruler": "0.4.*",
     "google/apiclient": "2.15.*",
-    "google/apiclient-services": "0.334.*",
+    "google/apiclient-services": "0.336.*",
     "smarty/smarty": "4.3.*",
     "aws/aws-sdk-php": "3.298.5",
     "google/auth": "^1.31",
