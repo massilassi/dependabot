@@ -80,7 +80,7 @@
     "amzn/amazon-pay-sdk-php": "3.7.*",
     "amzn/amazon-pay-api-sdk-php": "2.6.*",
     "php-ds/php-ds": "1.5.*",
-    "adyen/php-api-library": "^16.0",
+    "adyen/php-api-library": "^17.2",
     "lcobucci/jwt": "4.3.0",
     "graylog2/gelf-php": "1.7.*",
     "laminas/laminas-code": "4.13.*",
