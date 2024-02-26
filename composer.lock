@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "77e7f512c3572982ddbdbd38d4fcf8ef",
+    "content-hash": "a31b92610d34d51ee92de8fc1b1a390b",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1328,16 +1328,16 @@
         },
         {
             "name": "google/auth",
-            "version": "v1.35.0",
+            "version": "v1.37.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-auth-library-php.git",
-                "reference": "6e9c9fd4e2bbd7042f50083076346e4a1eff4e4b"
+                "reference": "5f16f67375b6f202b857183d7ef4e076acd7d4aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-auth-library-php/zipball/6e9c9fd4e2bbd7042f50083076346e4a1eff4e4b",
-                "reference": "6e9c9fd4e2bbd7042f50083076346e4a1eff4e4b",
+                "url": "https://api.github.com/repos/googleapis/google-auth-library-php/zipball/5f16f67375b6f202b857183d7ef4e076acd7d4aa",
+                "reference": "5f16f67375b6f202b857183d7ef4e076acd7d4aa",
                 "shasum": ""
             },
             "require": {
@@ -1380,9 +1380,9 @@
             "support": {
                 "docs": "https://googleapis.github.io/google-auth-library-php/main/",
                 "issues": "https://github.com/googleapis/google-auth-library-php/issues",
-                "source": "https://github.com/googleapis/google-auth-library-php/tree/v1.35.0"
+                "source": "https://github.com/googleapis/google-auth-library-php/tree/v1.37.0"
             },
-            "time": "2024-02-01T20:41:08+00:00"
+            "time": "2024-02-21T17:03:52+00:00"
         },
         {
             "name": "google/cloud-bigquery",
@@ -1670,16 +1670,16 @@
         },
         {
             "name": "google/gax",
-            "version": "v1.27.0",
+            "version": "v1.28.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/gax-php.git",
-                "reference": "7d2533e84480018a351e9c3e20a284342ea7a75e"
+                "reference": "9b128406e64bebe2718872966c73fcfb8a53a417"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/gax-php/zipball/7d2533e84480018a351e9c3e20a284342ea7a75e",
-                "reference": "7d2533e84480018a351e9c3e20a284342ea7a75e",
+                "url": "https://api.github.com/repos/googleapis/gax-php/zipball/9b128406e64bebe2718872966c73fcfb8a53a417",
+                "reference": "9b128406e64bebe2718872966c73fcfb8a53a417",
                 "shasum": ""
             },
             "require": {
@@ -1719,9 +1719,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/gax-php/issues",
-                "source": "https://github.com/googleapis/gax-php/tree/v1.27.0"
+                "source": "https://github.com/googleapis/gax-php/tree/v1.28.1"
             },
-            "time": "2024-02-07T23:12:02+00:00"
+            "time": "2024-02-20T15:26:16+00:00"
         },
         {
             "name": "google/grpc-gcp",
@@ -1814,16 +1814,16 @@
         },
         {
             "name": "google/protobuf",
-            "version": "v3.25.2",
+            "version": "v3.25.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/protocolbuffers/protobuf-php.git",
-                "reference": "83ea4c147718666ce6a9b9332ac2aa588c9211eb"
+                "reference": "983a87f4f8798a90ca3a25b0f300b8fda38df643"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/83ea4c147718666ce6a9b9332ac2aa588c9211eb",
-                "reference": "83ea4c147718666ce6a9b9332ac2aa588c9211eb",
+                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/983a87f4f8798a90ca3a25b0f300b8fda38df643",
+                "reference": "983a87f4f8798a90ca3a25b0f300b8fda38df643",
                 "shasum": ""
             },
             "require": {
@@ -1852,30 +1852,30 @@
                 "proto"
             ],
             "support": {
-                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v3.25.2"
+                "source": "https://github.com/protocolbuffers/protobuf-php/tree/v3.25.3"
             },
-            "time": "2024-01-09T22:12:32+00:00"
+            "time": "2024-02-15T21:11:49+00:00"
         },
         {
             "name": "googleads/google-ads-php",
-            "version": "v19.2.0",
+            "version": "v22.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleads/google-ads-php.git",
-                "reference": "2ae4c1b81bb4792e4711dcf150faddba80e9bdf0"
+                "reference": "46d616ef6139b24264e5d2414d79edb8fbbdedc6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleads/google-ads-php/zipball/2ae4c1b81bb4792e4711dcf150faddba80e9bdf0",
-                "reference": "2ae4c1b81bb4792e4711dcf150faddba80e9bdf0",
+                "url": "https://api.github.com/repos/googleads/google-ads-php/zipball/46d616ef6139b24264e5d2414d79edb8fbbdedc6",
+                "reference": "46d616ef6139b24264e5d2414d79edb8fbbdedc6",
                 "shasum": ""
             },
             "require": {
-                "google/gax": "^1.13.0",
+                "google/gax": "^1.19.1",
                 "google/protobuf": "^3.21.5",
                 "grpc/grpc": "^1.36.0",
                 "monolog/monolog": "^1.26 || ^2.0 || ^3.0",
-                "php": ">=7.4"
+                "php": ">=8.0"
             },
             "require-dev": {
                 "composer/composer": "^2.0",
@@ -1915,9 +1915,9 @@
             "homepage": "https://github.com/googleads/google-ads-php",
             "support": {
                 "issues": "https://github.com/googleads/google-ads-php/issues",
-                "source": "https://github.com/googleads/google-ads-php/tree/v19.2.0"
+                "source": "https://github.com/googleads/google-ads-php/tree/v22.1.0"
             },
-            "time": "2023-06-08T14:17:45+00:00"
+            "time": "2024-02-23T15:35:17+00:00"
         },
         {
             "name": "graylog2/gelf-php",
@@ -13470,5 +13470,5 @@
     "platform-overrides": {
         "php": "8.2"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
