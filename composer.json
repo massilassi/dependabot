@@ -136,7 +136,7 @@
     "phpoffice/phpspreadsheet": "1.29.*",
     "soundasleep/html2text": "^2.1",
     "webmozart/assert": "^1.11",
-    "php-http/socket-client": "2.1.*",
+    "php-http/socket-client": "2.2.*",
     "php-http/message-factory": "^1.1",
     "jejik/mt940": "^0.6.0",
     "google/cloud-storage": "^1.36",
