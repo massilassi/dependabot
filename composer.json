@@ -123,7 +123,7 @@
     "google/cloud-core": "1.52.*",
     "google/cloud-translate": "1.17.*",
     "paypal/paypal-checkout-sdk": "1.0.2",
-    "symfony/console": "5.4.*",
+    "symfony/console": "6.4.*",
     "symfony/cache": "5.4.*",
     "symfony/messenger": "5.4.*",
     "symfony/event-dispatcher": "5.4.*",
