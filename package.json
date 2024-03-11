@@ -17,7 +17,7 @@
     "@types/jquery": "3.5.29",
     "@types/node": "20.11.16",
     "@types/react": "18.2.55",
-    "@types/react-dom": "18.2.18",
+    "@types/react-dom": "18.2.21",
     "@types/webpack": "5.28.5",
     "@types/winbox": "0.2.5",
     "@typescript-eslint/eslint-plugin": "6.21.0",
