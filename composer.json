@@ -73,7 +73,7 @@
     "google/apiclient": "2.15.*",
     "google/apiclient-services": "0.334.*",
     "smarty/smarty": "4.3.*",
-    "aws/aws-sdk-php": "3.298.5",
+    "aws/aws-sdk-php": "3.300.14",
     "google/auth": "^1.31",
     "etrias/cups-ipp": "1.*",
     "phpseclib/phpseclib": "3.0.*",
