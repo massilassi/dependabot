@@ -72,7 +72,7 @@
     "adyen/php-api-library": "17.4.*",
     "amzn/amazon-pay-api-sdk-php": "2.6.*",
     "amzn/amazon-pay-sdk-php": "3.7.*",
-    "aws/aws-sdk-php": "3.303.*",
+    "aws/aws-sdk-php": "3.305.*",
     "doctrine/annotations": "2.0.*",
     "etrias/cups-ipp": "1.*",
     "fabianwennink/iconcaptcha": "4.0.*",
