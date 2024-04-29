@@ -20,7 +20,7 @@
     "@types/react-dom": "18.2.18",
     "@types/webpack": "5.28.5",
     "@types/winbox": "0.2.5",
-    "@typescript-eslint/eslint-plugin": "6.21.0",
+    "@typescript-eslint/eslint-plugin": "7.7.1",
     "@typescript-eslint/parser": "6.21.0",
     "@ui5/webcomponents": "1.22.0",
     "@ui5/webcomponents-fiori": "1.22.0",
