@@ -83,7 +83,7 @@
     "google/cloud-core": "1.56.*",
     "google/cloud-storage": "1.41.*",
     "google/cloud-translate": "1.17.*",
-    "googleads/google-ads-php": "22.1.*",
+    "googleads/google-ads-php": "23.0.*",
     "graylog2/gelf-php": "2.0.*",
     "guzzlehttp/guzzle": "7.8.*",
     "jejik/mt940": "0.6.*",
