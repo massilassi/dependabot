@@ -77,7 +77,7 @@
     "etrias/cups-ipp": "1.*",
     "fabianwennink/iconcaptcha": "4.0.*",
     "google/apiclient": "2.15.*",
-    "google/apiclient-services": "0.342.*",
+    "google/apiclient-services": "0.351.*",
     "google/auth": "1.37.*",
     "google/cloud-bigquery": "1.30.*",
     "google/cloud-core": "1.56.*",
