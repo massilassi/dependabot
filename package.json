@@ -8,7 +8,7 @@
     "@babel/preset-env": "7.23.9",
     "@babel/preset-react": "7.23.3",
     "@babel/traverse": "^7.23.9",
-    "@custom-elements-manifest/analyzer": "0.9.0",
+    "@custom-elements-manifest/analyzer": "0.10.2",
     "@cypress/skip-test": "2.6.1",
     "@symfony/webpack-encore": "4.6.1",
     "@types/babel__traverse": "^7.20.5",
