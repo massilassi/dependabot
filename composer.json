@@ -69,7 +69,7 @@
     "ext-xmlwriter": "*",
     "ext-zip": "*",
     "ext-zlib": "*",
-    "adyen/php-api-library": "17.4.*",
+    "adyen/php-api-library": "18.0.*",
     "amzn/amazon-pay-api-sdk-php": "2.6.*",
     "amzn/amazon-pay-sdk-php": "3.7.*",
     "aws/aws-sdk-php": "3.303.*",
