@@ -147,7 +147,7 @@
   "require-dev": {
     "fakerphp/faker": "1.23.*",
     "filp/whoops": "2.15.*",
-    "friendsofphp/php-cs-fixer": "3.52.*",
+    "friendsofphp/php-cs-fixer": "3.58.*",
     "laminas/laminas-development-mode": "3.12.*",
     "micheh/phpcs-gitlab": "1.1.*",
     "nikic/php-parser": "*",
