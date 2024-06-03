@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "526ce0b5861d7031b91035754aa362f1",
+    "content-hash": "d835d5ff6b0066747c003265227fa527",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1345,23 +1345,23 @@
         },
         {
             "name": "google/apiclient-services",
-            "version": "v0.342.0",
+            "version": "v0.358.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client-services.git",
-                "reference": "b75a249bd9abf0241822fa6d9d9b396583f5003f"
+                "reference": "a6daf60ee25cb45b6e3dbd04b62d1df39a609fbd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/b75a249bd9abf0241822fa6d9d9b396583f5003f",
-                "reference": "b75a249bd9abf0241822fa6d9d9b396583f5003f",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/a6daf60ee25cb45b6e3dbd04b62d1df39a609fbd",
+                "reference": "a6daf60ee25cb45b6e3dbd04b62d1df39a609fbd",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.4||^8.0"
+                "php": "^8.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "^5.7||^8.5.13"
+                "phpunit/phpunit": "^9.6"
             },
             "type": "library",
             "autoload": {
@@ -1383,9 +1383,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
-                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.342.0"
+                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.358.0"
             },
-            "time": "2024-04-01T01:08:41+00:00"
+            "time": "2024-06-03T01:02:16+00:00"
         },
         {
             "name": "google/auth",
@@ -13527,5 +13527,5 @@
     "platform-overrides": {
         "php": "8.2"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
