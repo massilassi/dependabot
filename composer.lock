@@ -2408,16 +2408,16 @@
         },
         {
             "name": "jejik/mt940",
-            "version": "0.6.1",
+            "version": "0.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sandermarechal/jejik-mt940.git",
-                "reference": "2520146583b94a874d79e5f3536bfa7735c86fde"
+                "reference": "2918b1448dd439612dba29749a2b154acbfb516d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sandermarechal/jejik-mt940/zipball/2520146583b94a874d79e5f3536bfa7735c86fde",
-                "reference": "2520146583b94a874d79e5f3536bfa7735c86fde",
+                "url": "https://api.github.com/repos/sandermarechal/jejik-mt940/zipball/2918b1448dd439612dba29749a2b154acbfb516d",
+                "reference": "2918b1448dd439612dba29749a2b154acbfb516d",
                 "shasum": ""
             },
             "require": {
@@ -2444,9 +2444,8 @@
                     "homepage": "https://www.jejik.com"
                 },
                 {
-                    "name": "powercloud GmbH / Dominic Richter",
-                    "email": "dominic.richter@power.cloud",
-                    "homepage": "https://www.power.cloud"
+                    "name": "Dominic Richter",
+                    "homepage": "https://twitnic.de"
                 }
             ],
             "description": "An MT940 bank statement parser for PHP",
@@ -2457,9 +2456,9 @@
             ],
             "support": {
                 "issues": "https://github.com/sandermarechal/jejik-mt940/issues",
-                "source": "https://github.com/sandermarechal/jejik-mt940/tree/0.6.1"
+                "source": "https://github.com/sandermarechal/jejik-mt940/tree/0.6.2"
             },
-            "time": "2023-11-06T13:33:12+00:00"
+            "time": "2023-12-20T10:14:13+00:00"
         },
         {
             "name": "jordanbrauer/unit-converter",
@@ -13527,5 +13526,5 @@
     "platform-overrides": {
         "php": "8.2"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
