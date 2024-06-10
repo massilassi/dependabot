@@ -138,7 +138,7 @@
     "symfony/cache": "5.4.*",
     "symfony/console": "5.4.*",
     "symfony/event-dispatcher": "5.4.*",
-    "symfony/finder": "5.4.*",
+    "symfony/finder": "7.1.*",
     "symfony/messenger": "5.4.*",
     "webmozart/assert": "1.11.*",
     "zircote/swagger-php": "4.8.*",
