@@ -119,7 +119,7 @@
     "i18next-http-backend": "2.4.3",
     "ibantools": "4.3.9",
     "jquery": "3.7.1",
-    "lit": "^3.1.2",
+    "lit": "^3.1.4",
     "lottie-web": "5.12.2",
     "popper.js": "1.16.1",
     "react": "18.2.0",
