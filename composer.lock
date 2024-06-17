@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "526ce0b5861d7031b91035754aa362f1",
+    "content-hash": "63ee7596695aff36ac67dd02515df1cb",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -3016,16 +3016,16 @@
         },
         {
             "name": "laminas/laminas-filter",
-            "version": "2.35.0",
+            "version": "2.36.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-filter.git",
-                "reference": "31e4b76263a4fc4cd205790bd2df324e2e84040b"
+                "reference": "307afc21ada0648e84cdcf9e14cd84bd43ee9d13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-filter/zipball/31e4b76263a4fc4cd205790bd2df324e2e84040b",
-                "reference": "31e4b76263a4fc4cd205790bd2df324e2e84040b",
+                "url": "https://api.github.com/repos/laminas/laminas-filter/zipball/307afc21ada0648e84cdcf9e14cd84bd43ee9d13",
+                "reference": "307afc21ada0648e84cdcf9e14cd84bd43ee9d13",
                 "shasum": ""
             },
             "require": {
@@ -3043,11 +3043,11 @@
                 "laminas/laminas-crypt": "^3.11",
                 "laminas/laminas-i18n": "^2.26.0",
                 "laminas/laminas-uri": "^2.11",
-                "pear/archive_tar": "^1.4.14",
-                "phpunit/phpunit": "^10.5.11",
+                "pear/archive_tar": "^1.5.0",
+                "phpunit/phpunit": "^10.5.20",
                 "psalm/plugin-phpunit": "^0.19.0",
-                "psr/http-factory": "^1.0.2",
-                "vimeo/psalm": "^5.22.2"
+                "psr/http-factory": "^1.1.0",
+                "vimeo/psalm": "^5.24.0"
             },
             "suggest": {
                 "laminas/laminas-crypt": "Laminas\\Crypt component, for encryption filters",
@@ -3091,7 +3091,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2024-04-01T00:01:17+00:00"
+            "time": "2024-06-13T10:31:36+00:00"
         },
         {
             "name": "laminas/laminas-http",
@@ -13527,5 +13527,5 @@
     "platform-overrides": {
         "php": "8.2"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
