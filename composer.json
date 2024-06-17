@@ -133,7 +133,7 @@
     "phpoffice/phpspreadsheet": "1.29.*",
     "phpseclib/phpseclib": "3.0.*",
     "ruler/ruler": "0.4.*",
-    "smarty/smarty": "4.4.*",
+    "smarty/smarty": "5.3.*",
     "soundasleep/html2text": "2.1.*",
     "symfony/cache": "5.4.*",
     "symfony/console": "5.4.*",
