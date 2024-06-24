@@ -38,7 +38,7 @@
     "events": "3.3.0",
     "exports-loader": "^5.0.0",
     "file-loader": "6.2.0",
-    "glob": "10.3.10",
+    "glob": "10.4.2",
     "gsap": "3.12.5",
     "html-webpack-plugin": "5.6.0",
     "iconcaptcha-widget": "https://github.com/fabianwennink/IconCaptcha-Widget.git#commit=53607632e3b315e7711b8ea736f82c629698edd2",
