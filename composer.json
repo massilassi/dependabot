@@ -88,7 +88,7 @@
     "guzzlehttp/guzzle": "7.8.*",
     "jejik/mt940": "0.6.*",
     "jordanbrauer/unit-converter": "0.9.*",
-    "laminas/laminas-code": "4.13.*",
+    "laminas/laminas-code": "4.14.*",
     "laminas/laminas-config-aggregator": "1.14.*",
     "laminas/laminas-di": "3.13.*",
     "laminas/laminas-diactoros": "3.3.*",
